@@ -1,0 +1,7 @@
+1. git init
+2. git pull or clone & Paste the link
+3. git status
+4. git branch -m master main
+5. git add . 
+6. git commit -m "type your message relevant to task"
+7. git remote origin "Paste link from git hub"
