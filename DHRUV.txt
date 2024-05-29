@@ -7,6 +7,10 @@
 7. git remote origin "Paste link from git hub"
 
 
+
 git remote add origin https://github.com/Lakhani020/dummy.git
 git branch -M main
 git push -u origin main
+
+hello
+
